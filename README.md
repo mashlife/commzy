@@ -1,6 +1,8 @@
 # CommZy
 
-CommZy is a basic e-commerce application built using Flutter. It provides a seamless shopping experience with features like product browsing, category filtering, product details, and cart management. The app is designed to work across multiple platforms, including Android, iOS, macOS, Linux, Windows, and Web.
+![Download APK](apk/)
+
+CommZy is a basic e-commerce application built using Flutter. It provides a seamless shopping experience with features like product browsing, category filtering, product details, and cart management. The app is designed to work across multiple platforms, including Android, iOS.
 
 ## Tech Stack
 
